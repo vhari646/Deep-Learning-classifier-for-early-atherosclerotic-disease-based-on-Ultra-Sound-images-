@@ -134,3 +134,11 @@ To run any of the scripts, type “idle” in the Anaconda Command Prompt (with 
 
 If everything is working properly, the object detector will initialize for about 10 seconds and then display a window showing any objects it’s detected in the image!
 
+Credits - Evan EdjeElectronics - edje.electronics@gmail.com
+Licenses - # Copyright 2017 The TensorFlow Authors. All Rights Reserved.
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#     http://www.apache.org/licenses/LICENSE-2.0
