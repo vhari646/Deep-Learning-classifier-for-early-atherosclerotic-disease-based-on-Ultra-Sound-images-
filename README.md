@@ -134,6 +134,35 @@ To run any of the scripts, type “idle” in the Anaconda Command Prompt (with 
 
 If everything is working properly, the object detector will initialize for about 10 seconds and then display a window showing any objects it’s detected in the image!
 
+## Architecture of the Faster RCNN model
+![1](https://user-images.githubusercontent.com/39281308/56237462-5472ac00-608c-11e9-975a-b8e6c06829c9.PNG)
+
+## Implementation of the Classifier
+![2](https://user-images.githubusercontent.com/39281308/56237464-5472ac00-608c-11e9-8f87-ed2a9a752759.PNG)
+
+## Creating the Database
+# Labelling
+![3](https://user-images.githubusercontent.com/39281308/56237465-5472ac00-608c-11e9-9e83-acfc372c8bb2.PNG)
+
+# Database Split-up
+![4](https://user-images.githubusercontent.com/39281308/56237466-5472ac00-608c-11e9-8e03-dbadc5699de6.PNG)
+![5](https://user-images.githubusercontent.com/39281308/56237467-5472ac00-608c-11e9-8227-38c29422cde7.PNG)
+
+## Results
+# Accuracy of the Classifier
+![6](https://user-images.githubusercontent.com/39281308/56237468-550b4280-608c-11e9-8b4a-675f7fc13781.PNG)
+
+![7](https://user-images.githubusercontent.com/39281308/56237470-550b4280-608c-11e9-8761-692f8573e371.PNG)
+
+## Class - 1 Detection
+![8](https://user-images.githubusercontent.com/39281308/56237471-550b4280-608c-11e9-8c2f-97e5d055ceae.PNG)
+
+## Class -2  Detection
+![9](https://user-images.githubusercontent.com/39281308/56237472-550b4280-608c-11e9-93d8-0e340cdc0445.PNG)
+
+## Class - 3 Detection
+![10](https://user-images.githubusercontent.com/39281308/56237473-55a3d900-608c-11e9-982a-27649eb160ca.PNG)
+
 Credits - Evan EdjeElectronics - edje.electronics@gmail.com
 Licenses - # Copyright 2017 The TensorFlow Authors. All Rights Reserved.
 #
