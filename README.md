@@ -134,11 +134,15 @@ To run any of the scripts, type “idle” in the Anaconda Command Prompt (with 
 
 If everything is working properly, the object detector will initialize for about 10 seconds and then display a window showing any objects it’s detected in the image!
 
+````
 ## Architecture of the Faster RCNN model
 ![1](https://user-images.githubusercontent.com/39281308/56237462-5472ac00-608c-11e9-975a-b8e6c06829c9.PNG)
 
 ## Implementation of the Classifier
 ![2](https://user-images.githubusercontent.com/39281308/56237464-5472ac00-608c-11e9-8f87-ed2a9a752759.PNG)
+
+## Difference between Class - 1 & Class - 3
+![11](https://user-images.githubusercontent.com/39281308/56238696-5be78480-608f-11e9-9142-c6e624e261fb.PNG)
 
 ## Creating the Database
 # Labelling
@@ -165,9 +169,7 @@ If everything is working properly, the object detector will initialize for about
 
 Credits - Evan EdjeElectronics - edje.electronics@gmail.com
 Licenses - # Copyright 2017 The TensorFlow Authors. All Rights Reserved.
-#
-# Licensed under the Apache License, Version 2.0 (the "License");
-# you may not use this file except in compliance with the License.
-# You may obtain a copy of the License at
-#
-#     http://www.apache.org/licenses/LICENSE-2.0
+
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+http://www.apache.org/licenses/LICENSE-2.0
